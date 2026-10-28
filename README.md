@@ -18,18 +18,6 @@ The project uses Haar Cascade face and eye detection along with a temporal state
 - Approximate location display (GPS / Google API / IP fallback)
 - Modular project architecture
 
----
-
-## Demo
-
-Add your screenshots or GIFs here.
-
-Example:
-
-```
-assets/demo.gif
-assets/screenshot.png
-```
 
 ---
 
@@ -209,8 +197,6 @@ M.Tech Computer Science
 Indian Institute of Technology Guwahati
 
 GitHub: https://github.com/Utkarsh-j03
-
-LinkedIn: (Add your profile)
 
 ---
 
